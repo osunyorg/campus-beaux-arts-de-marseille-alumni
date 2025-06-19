@@ -1,13 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Campus
-  target: "/campus/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/locations"
-  file: content/fr/locations/_index.html
 - title: Alumni
   target: "/alumni/"
   kind: page
@@ -15,6 +8,13 @@ items:
   children: []
   path: "/academic_years"
   file: content/fr/academic_years/_index.html
+- title: Organisations
+  target: "/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -29,13 +29,13 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Organisations
-  target: "/organisations/"
+- title: Campus
+  target: "/campus/"
   kind: page
   new_tab: false
   children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
+  path: "/locations"
+  file: content/fr/locations/_index.html
 - title: Formations
   target: "/formations/"
   kind: page
