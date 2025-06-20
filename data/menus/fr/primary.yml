@@ -1,27 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Alumni
-  target: "/alumni/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/academic_years"
-  file: content/fr/academic_years/_index.html
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
@@ -29,6 +8,27 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
+- title: Organisations
+  target: "/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
+- title: Alumni
+  target: "/alumni/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/academic_years"
+  file: content/fr/academic_years/_index.html
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
 - title: Campus
   target: "/campus/"
   kind: page
