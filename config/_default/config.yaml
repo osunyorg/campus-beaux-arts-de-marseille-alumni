@@ -1,6 +1,6 @@
 theme:
-  - osuny
   - osuny-alumni-theme
+  - osuny
 _merge: deep
 params:
   summary:
