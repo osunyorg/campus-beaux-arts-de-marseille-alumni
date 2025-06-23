@@ -1,1 +1,18 @@
-// @include font-face("Font name", font-file-in-fonts-without-extensions)
+@include font-face("Practical Grotesk", PracticalGrotesk-Medium)
+@include font-face("Practical Grotesk", PracticalGrotesk-MediumItalic, $weight: normal, $style: italic)
+@include font-face("Practical Grotesk", PracticalGrotesk-ExtraBold, $weight: bold)
+@include font-face("Practical Grotesk", PracticalGrotesk-ExtraBoldItalic, $weight: bold, $style: italic)
+
+// Icons
+@font-face
+    font-display: block
+    font-family: 'Icons-site'
+    font-style: normal
+    font-weight: 400
+    src: url('/assets/fonts/icons-site/icomoon.woff') format("woff"), url('/assets/fonts/icons-site/icomoon.eot') format("eot"), url('/assets/fonts/icons-site/icomoon.tsvgtf') format("svg")
+
+@mixin icon-site($icon)
+    @include icon
+    content: map-get($icons-site, $icon)
+    font-family: 'Icons-site'
+    font-size: pxToRem(16)

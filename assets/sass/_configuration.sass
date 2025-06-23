@@ -1,7 +1,164 @@
-$heading-font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif
-$body-font-family: $heading-font-family
+// Colors
+$color-linen: #E5E5D1
+$color-dark: #221D20
+$color-text: $color-dark
+$color-text-alt: $color-dark
+$color-background: $color-linen
+$color-background-alt: $color-linen
+$color-background-white: white
+$color-accent: $color-text
+$color-border: $color-dark
+$color-selection: $color-background
+$color-selection-background: rgba($color-text, .7)
 
-$header-background: none
+// TYPOGRAPHY
+$heading-font-family: "Practical Grotesk", sans-serif
+$body-font-family: $heading-font-family
+$heading-font-weight: normal
+
+// h1
+$h1-size-desktop: pxToRem(64)
+$h1-size: pxToRem(32)
+$h1-line-height: 1
+$h1-weight: $heading-font-weight
+$h1-letter-spacing: -0.02em
+// h2
+$h2-size-desktop: pxToRem(40)
+$h2-size: pxToRem(25)
+$h2-line-height: 1
+$h2-weight: $heading-font-weight
+$h2-letter-spacing: -0.01em
+// h3
+$h3-size-desktop: pxToRem(30)
+$h3-size: pxToRem(25)
+$h3-line-height: 1.1
+$h3-weight: $heading-font-weight
+$h3-letter-spacing: -0.01em
+// h4
+$h4-size-desktop: pxToRem(25)
+$h4-weight: normal
+$h4-letter-spacing: -0.01em
+
+// h5
+$h5-size-desktop: pxToRem(30)
+$h5-text-transform: none
+$h5-letter-spacing: -0.01em
+
+// h6
+$h6-text-transform: none
+$h6-letter-spacing: -0.01em
+
+// Body
+$body-size-desktop: pxToRem(20)
+$body-size: pxToRem(20)
+$body-line-height: 1.25
+$body-line-height-desktop: 130%
+$body-letter-spacing: -0.01em
+
+
+// Meta
+$meta-size: pxToRem(16)
+$meta-line-height: 140%
+$meta-letter-spacing: $body-letter-spacing
+
+// Small
+$small-size-desktop: pxToRem(16)
+$small-letter-spacing: $body-letter-spacing
+
+
+// Quote
+$quote-size-desktop-short: pxToRem(64)
+// $quote-size-desktop-long: pxToRem(40)
+$quote-size-desktop: pxToRem(64)
+$quote-size: pxToRem(32)
+$quote-line-height: 115%
+$quote-line-height-desktop: 97%
+$block-testimonials-xl-line-height: $quote-line-height-desktop
+
+// Signature
+$signature-size-desktop: pxToRem(16)
+$signature-size: pxToRem(16)
+$signature-line-height: 1
+$signature-letter-spacing: $body-letter-spacing
+
+// Button
+$btn-font-size-desktop: pxToRem(30)
+$btn-line-height: pxToRem(30)
+$btn-border-radius: pxToRem(50)
+$btn-border: var(--border-width) solid var(--color-border)
+
+$btn-padding: pxToRem(6) pxToRem(16)
+$btn-padding-desktop: pxToRem(11) pxToRem(25) pxToRem(14)
+$btn-small-font-size-desktop: pxToRem(20)
+$btn-small-line-height: 1
+$btn-small-padding-desktop: pxToRem(4) pxToRem(15) pxToRem(6)
+$btn-large-font-size-desktop: pxToRem(40)
+$btn-large-line-height: pxToRem(50)
+$btn-large-padding-desktop: $btn-padding-desktop
+
+// HEADER
+$header-background: var(--color-background)
+$header-dropdown-full: true
 $header-border-bottom-width: 0
+$header-logo-height: pxToRem(32)
+$header-logo-height-desktop: pxToRem(106)
+$header-upper-menu-padding-y: 0
+$search-button-header-text: true
+$header-logo-height: 36px
+$header-nav-padding-y-desktop: pxToRem(50)
+
+// HERO
 $hero-background-color: none
-$footer-background-color: none
+
+// FOOTER
+$footer-background-color: var(--color-background)
+$footer-text-hidden: true
+
+// BLOCKS
+// cta | call to action
+$block-call-to-action-accent-color: $color-text
+
+$block-call-to-action-accent-background: $color-background-white
+$block-call-to-action-accent-color: var(--color-text)
+$block-call-to-action-accent-button-background: $color-background-white
+$block-call-to-action-accent-button-border: none
+$block-call-to-action-accent-button-color: var(--color-text)
+$block-call-to-action-accent-button-hover-background: $block-call-to-action-accent-button-background
+$block-call-to-action-accent-button-hover-border: none
+$block-call-to-action-accent-button-hover-color: $block-call-to-action-accent-button-color
+
+$block-call-to-action-background: transparent
+$block-call-to-action-color: var(--color-text)
+$block-call-to-action-button-background: transparent
+$block-call-to-action-button-border: none
+$block-call-to-action-button-color: var(--color-text)
+$block-call-to-action-button-hover-background: transparent
+$block-call-to-action-button-hover-border: none
+$block-call-to-action-button-hover-color: var(--color-text)
+
+// links
+$block-links-card-background: $color-background-white
+
+// testimonials
+$block-testimonials-color: var(--color-text)
+
+// key figures
+
+$block-key_figures-number-font-weight: normal
+
+// ICONS
+$icons-site: ()
+$icons-site: map-merge($icons-site, ("icon-pisourde": "\e902"))
+$icons-site: map-merge($icons-site, ("icon-youtube": "\e903"))
+$icons-site: map-merge($icons-site, ("icon-ampersand": "\e904"))
+$icons-site: map-merge($icons-site, ("icon-instagram": "\e90f"))
+$icons-site: map-merge($icons-site, ("icon-linkedin": "\e90e"))
+$icons-site: map-merge($icons-site, ("icon-shape-01": "\e90d"))
+$icons-site: map-merge($icons-site, ("icon-shape-02": "\e90c"))
+$icons-site: map-merge($icons-site, ("icon-shape-03": "\e90b"))
+$icons-site: map-merge($icons-site, ("icon-shape-04": "\e90a"))
+$icons-site: map-merge($icons-site, ("icon-shape-05": "\e909"))
+$icons-site: map-merge($icons-site, ("icon-shape-06": "\e908"))
+$icons-site: map-merge($icons-site, ("icon-shape-07": "\e907"))
+$icons-site: map-merge($icons-site, ("icon-shape-08": "\e906"))
+$icons-site: map-merge($icons-site, ("icon-shape-09": "\e905"))
