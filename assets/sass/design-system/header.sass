@@ -1,0 +1,207 @@
+header#document-header
+    .logo
+        display: flex
+        gap: $spacing-1
+        p
+            font-size: $h5-size
+            line-height: 90%
+            max-width: 14ch
+        @include media-breakpoint-up(desktop)
+            gap: pxToRem(25)
+            p
+                @include h1
+                line-height: 90%
+                margin-top: pxToRem(-6)
+                max-width: pxToRem(400)
+    .logo-container
+        .tagline
+            @include meta
+            a
+                text-decoration-thickness: 1px
+                text-decoration-color: inherit
+                &::after
+                    display: none
+            @include media-breakpoint-up(desktop)
+                margin-left: pxToRem(253)
+                margin-top: pxToRem(5)
+            @include media-breakpoint-down(desktop)
+                position: absolute
+                display: none
+                margin-top: $spacing-1
+                html.has-menu-opened &
+                    display: block
+    .menu
+        .nav-level-1
+            justify-content: space-between
+            > li
+                > a, > span
+                    &::after
+                        display: none
+                    > strong
+                        font-weight: inherit
+                        &::before
+                            @include icon-site('icon-ampersand')
+                            font-size: pxToRem(20)
+                            display: inline-block
+                            margin-left: pxToRem(2)
+                            padding-right: pxToRem(5)
+                        &::after
+                            content: ' ↓' / ""
+                            display: inline-block
+                            transition: transform 0.2s ease
+                    &[aria-expanded="true"] > strong::after
+                        content: ' ←' / ""
+                        @include media-breakpoint-up(desktop)
+                            content: ' ↑' / ""
+                &:first-child
+                    > a
+                        padding-left: 0
+                &:last-child
+                    a
+                        @extend .btn
+                        min-width: 0
+                        white-space: nowrap
+                        @include media-breakpoint-down(desktop)
+                            @include h3
+                            padding: pxToRem(8) pxToRem(25) pxToRem(10)
+        .nav-level-2
+            > li
+                > a, > span
+                    @include h4
+    .upper-menu
+        li:first-child
+            a::after
+                @include icon-site('icon-pisourde')
+                font-size: pxToRem(21)
+                margin-left: space()
+    .header-button
+        font-size: pxToRem(28)
+        span:first-of-type
+            @extend .sr-only
+    @include media-breakpoint-down(desktop)
+        .logo-container
+            flex: 1
+        .logo svg
+            height: $header-logo-height
+            width: auto
+            html.has-menu-opened &
+                path
+                    fill: var(--color-background)
+        .nav-level-1 > li
+            &.has-children [role="button"]
+                @include h3
+                display: block
+                padding: pxToRem(10) 0
+                strong,
+                strong::after
+                    display: block
+            &:last-child
+                margin-top: space(8)
+        .nav-level-2
+            > li + li 
+                margin-top: space(10)
+        .dropdown-menu .nav-level-2 
+            > .has-children > a
+                @include h3
+        html.has-menu-opened &
+            --btn-color: var(--color-background)
+            --btn-border: var(--border-width) solid var(--color-background)
+            height: 100%
+            overflow: auto
+            &, .upper-menu
+                background-color: var(--color-text)
+                &, a, span, button
+                    border-color: var(--color-background)
+                    color: var(--color-background)
+            .upper-menu 
+                margin-top: $spacing-4
+                position: relative
+                padding-bottom: var(--grid-gutter)
+                top: unset
+                ul
+                    display: block
+                    height: auto
+                    li + li
+                        margin-top: space(4)
+    @include media-breakpoint-up(desktop)
+        .nav-search
+            button > span
+                border: 0 !important
+                clip: rect(1px,1px,1px,1px) !important
+                clip-path: inset(50%) !important
+                height: 1px !important
+                overflow: hidden !important
+                padding: 0 !important
+                margin: 0 !important
+                position: absolute !important
+                width: 1px !important
+                white-space: nowrap !important
+        .upper-menu
+            align-items: end
+            background: transparent
+            display: flex
+            position: absolute
+            right: var(--grid-gutter)
+            top: $header-nav-padding-y-desktop
+            max-width: columns(4)
+            @include media-breakpoint-up(xxl)
+                max-width: columns(6)
+            > .container
+                flex: 1
+                padding: 0
+                margin: 0
+                width: auto
+                > ul
+                    column-gap: $spacing-4
+                    flex-wrap: wrap
+                    justify-content: space-between
+                    row-gap: $spacing-2
+                    .nav-search button::after
+                        font-size: pxToRem(25)
+        &:not(.is-sticky)
+            .menu
+                padding-top: $spacing-4
+                width: 100%
+                .nav-level-1
+                    align-items: flex-start
+                    > li
+                        > a, > span
+                            @include h3
+                            > strong
+                                display: block
+                        &.has-children
+                            > a, > span
+                                padding: 0
+        &.is-sticky
+            border-bottom: 1px solid var(--color-text)
+            .upper-menu
+                display: none
+            .logo-container
+                .logo p,
+                .tagline
+                    display: none
+                .logo svg
+                    width: pxToRem(94)
+                    height: auto
+            .primary-menu
+                padding-bottom: pxToRem(20)
+                padding-top:  pxToRem(15)
+                > .container
+                    align-items: center
+                    gap: var(--grid-gutter)
+                .nav-level-1 > li > a > strong::before
+                    font-size: pxToRem(17)
+            .menu
+                flex: 1
+                .nav-level-1
+                    align-items: center // old browser support
+                    align-items: baseline
+                    justify-content: start
+                    gap: $spacing-2
+                    > li
+                        &:last-child
+                            margin-left: auto
+                            a
+                                --btn-font-size: var(--meta-size)
+                                --btn-padding: var(--btn-small-padding)
+                                --btn-line-height: var(--btn-small-line-height)
