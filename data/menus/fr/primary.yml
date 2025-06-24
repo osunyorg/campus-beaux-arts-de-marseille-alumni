@@ -1,0 +1,26 @@
+---
+title: Menu principal
+items:
+- title: Toutes les promotions
+  target: "/alumni/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/academic_years"
+  file: content/fr/academic_years/_index.html
+- title: Toutes les options
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+- title: Appel à projets
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+- title: Mon compte alumni
+  target: "/"
+  kind: url
+  new_tab: true
+  children: []
+
