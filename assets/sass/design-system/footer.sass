@@ -1,0 +1,130 @@
+footer#document-footer
+    > .container:first-of-type
+        padding-bottom: 0
+        + .container
+            align-items: flex-start
+            padding-top: space(10)
+            margin-top: 0
+            @include media-breakpoint-down(desktop)
+                padding-top: $spacing-4
+    .footer-shapes
+        @include grid(3)
+        column-gap: $spacing-3
+        width: 100%
+        img
+            width: 100%
+    .container
+        gap: var(--grid-gutter)
+    .footer-site
+        text-align: left
+        [itemprop="extendedAddress"]
+            display: block
+        [itemprop="address"]
+            margin-top: 0
+        [itemprop="name"],
+        [itemprop="addressCountry"],
+        [itemprop="postalCode"]
+            @extend .sr-only
+        .phone-numbers span
+            display: block
+        > * + .footer-cta
+            margin-top: $spacing-3
+        .footer-cta
+            a
+                @extend .button
+                @extend .button--small
+                padding-top: pxToRem(5)
+                padding-bottom: pxToRem(5)
+                text-align: left
+                font-size: $body-size
+                &::after
+                    content: '→'
+                    margin-left: space()
+    .footer-site,
+    .footer-nav a
+        @include h3
+    .footer-presentation,
+    .footer-switchboard
+        p
+            @include meta
+        img + p,
+        p + p
+            margin-top: space(5)
+    .footer-presentation
+        a
+            display: block
+            &, &:hover
+                text-decoration: none
+            &:hover span
+                text-decoration: underline
+            &::after
+                content: '→'
+                margin-left: space()
+    .footer-social
+        order: 0
+        .site-links
+            display: flex
+            gap: space(5)
+            li 
+                + li
+                    margin-top: 0
+                &.instagram::after
+                    @include icon-site('icon-instagram')
+                &.linkedin::after
+                    @include icon-site('icon-linkedin')
+                &.youtube
+                    order: -1
+                    &::after
+                        @include icon-site('icon-youtube')
+                &::after
+                    font-size: pxToRem(32) !important
+                    margin-left: 0
+        @include media-breakpoint-up(desktop)
+            width: columns(3)
+    @include media-breakpoint-down(desktop)
+        padding-bottom: var(--grid-gutter)
+        .container
+            display: flex
+            flex-direction: column
+            gap: pxToRem(50)
+            &:nth-child(2) + .container
+                margin-top: pxToRem(50)
+        .footer-nav,
+        .footer-switchboard,
+        .footer-presentation
+            margin-top: 0
+        .footer-site
+            order: -3
+            width: 100%
+            .footer-cta a
+                width: 100%
+                text-align: center
+        .footer-switchboard
+            order: -2
+        .footer-presentation
+            order: -1
+            img
+                width: 100%
+        .footer-legals
+            order: -1
+            margin-top: 0
+    @include media-breakpoint-up(desktop)
+        .footer-site,
+        .footer-nav
+            width: columns(3)
+        .footer-switchboard
+            width: columns(2)
+        .footer-presentation
+            flex: 1
+            @include media-breakpoint-up(xxl)
+                margin-left: var(--grid-gutter-negative)
+        .footer-legals 
+            flex: 1
+            margin-left: var(--grid-gutter-negative)
+            .nav-legal
+                display: flex
+                justify-content: space-between
+                li + li
+                    margin-top: 0
+        .footer-social
+            padding-right: var(--column-width)

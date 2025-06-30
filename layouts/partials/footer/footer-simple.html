@@ -1,0 +1,62 @@
+<div class="container">
+  <div class="footer-shapes"></div>
+</div>
+<div class="container">
+  <div class="footer-site">
+    <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+      <span itemprop="streetAddress">184 Avenue de Luminy</span>
+      <span itemprop="extendedAddress">CS 7091213288</span>
+      <span itemprop="addressLocality">Marseille Cedex 9</span>
+      <span itemprop="addressCountry">France</span>
+    </address>
+    <p class="phone-numbers">
+      <span>T : <a itemprop="telephone" href="tel:0491828310">04 91 82 83 10</a></span>
+      <span>F : <a itemprop="telephone" href="tel:0491828311">04 91 82 83 11</a></span>
+    </p>
+
+    {{ $file_cta := partial "GetMenu" "cta-footer" }}
+    {{ if $file_cta }}
+      {{ partial "commons/menu.html" (dict
+          "kind" "cta-footer"
+          "level" 1
+          "context" .
+          "class" "footer-cta"
+        )}}
+    {{ end }}
+  </div>
+
+  {{ $footer_menu := partial "GetMenu" "footer" }}
+  {{ if $footer_menu }}
+    {{ partial "commons/menu.html" (dict
+        "kind" "footer"
+        "level" 1
+        "stop" 1
+        "context" .
+        "class" "footer-nav"
+      )}}
+  {{ end }}
+
+  <div class="footer-presentation">
+    <img src="/assets/images/campus-logo.svg" alt="{{ i18n "commons.footer.logo_alt" }}">
+    <p>{{ i18n "commons.footer.campus.text" }}</p>
+    <p>
+      <a href="/todo"><span>{{ i18n "commons.footer.campus.sites.campus" }}</span></a>
+      <a href="/todo"><span>{{ i18n "commons.footer.campus.sites.conservatory" }}</span></a>
+    </p>
+  </div>
+    
+  </div>
+
+  <div class="container">
+  <div class="footer-social">
+    {{ partial "footer/social.html" . }}
+  </div>
+  <div class="footer-legals">
+    {{ partial "footer/legals.html" . }}
+    {{ if and site.Params.search.active (in site.Params.search.positions "footer") }}
+      <div class="footer-search">
+        {{ partial "commons/search/button.html" "footer" }}
+      </div>
+    {{ end }}
+  </div>
+  </div>

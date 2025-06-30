@@ -1,0 +1,12 @@
+logo:
+  tagline: Un établissement <a href="/" target="_blank" rel="noopener noreferrer">Campus art Méditerranée</a>
+commons:
+  footer:
+    campus:
+      logo_alt: Campus art Méditerranée
+      text: "Le Campus art Méditerranée est un établissement public de coopération culturelle agréé par le ministère de la Culture, et soutenu par la Ville de Marseille. Il compte trois entités : les Beaux Arts de Marseille, le Conservatoire de Marseille Pierre Barbizet, et l’Institut de formation artistique Marseille-Méditerranée (IFAMM)."
+      sites:
+        campus: Site du Campus art Méditerranée
+        conservatory: Site du Conservatoire Pierre Barbizet
+    switchboard: "L’École met en place un accueil téléphonique (standard : <a href='tel:04 91 82 83 10'>04 91 82 83 10</a>) pour les personnes sourdes et malentendantes"
+  
