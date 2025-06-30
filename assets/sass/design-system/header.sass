@@ -32,7 +32,7 @@ header#document-header
                     display: block
     .menu
         .nav-level-1
-            justify-content: space-between
+            gap: var(--grid-gutter)
             > li
                 > a, > span
                     &::after
@@ -56,14 +56,6 @@ header#document-header
                 &:first-child
                     > a
                         padding-left: 0
-                &:last-child
-                    a
-                        @extend .btn
-                        min-width: 0
-                        white-space: nowrap
-                        @include media-breakpoint-down(desktop)
-                            @include h3
-                            padding: pxToRem(8) pxToRem(25) pxToRem(10)
         .nav-level-2
             > li
                 > a, > span
