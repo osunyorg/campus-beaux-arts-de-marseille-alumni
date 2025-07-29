@@ -38,16 +38,11 @@
 
   <div class="footer-presentation">
     <img src="/assets/images/campus-logo.svg" alt="{{ i18n "commons.footer.logo_alt" }}">
-    <p>{{ i18n "commons.footer.campus.text" }}</p>
-    <p>
-      <a href="/todo"><span>{{ i18n "commons.footer.campus.sites.campus" }}</span></a>
-      <a href="/todo"><span>{{ i18n "commons.footer.campus.sites.conservatory" }}</span></a>
-    </p>
+    {{ i18n "osuny-campus-footer.text" | markdownify }}
   </div>
-    
-  </div>
+</div>
 
-  <div class="container">
+<div class="container">
   <div class="footer-social">
     {{ partial "footer/social.html" . }}
   </div>
@@ -59,4 +54,6 @@
       </div>
     {{ end }}
   </div>
-  </div>
+</div>
+
+{{ partial "osuny-campus-supports.html" . }}
