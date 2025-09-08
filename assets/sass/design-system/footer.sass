@@ -45,21 +45,26 @@ footer#document-footer
         @include h3
     .footer-presentation,
     .footer-switchboard
-        p
+        p, li
             @include meta
+        li
+            margin-top: 0
         img + p,
         p + p
             margin-top: space(5)
     .footer-presentation
         a
-            display: block
             &, &:hover
                 text-decoration: none
-            &:hover span
+            &:hover
                 text-decoration: underline
             &::after
                 content: '→'
                 margin-left: space()
+        p
+            a
+                &::after
+                    content: " ↗"
     .footer-social
         order: 0
         .site-links

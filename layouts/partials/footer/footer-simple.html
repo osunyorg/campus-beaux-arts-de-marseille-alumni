@@ -39,6 +39,7 @@
   <div class="footer-presentation">
     <img src="/assets/images/campus-logo.svg" alt="{{ i18n "commons.footer.logo_alt" }}">
     {{ i18n "osuny-campus-footer.text" | markdownify }}
+    {{ partial "footer/campus-websites-list.html" }}
   </div>
 </div>
 
@@ -56,4 +57,4 @@
   </div>
 </div>
 
-{{ partial "osuny-campus-supports.html" . }}
+{{ partial "footer/campus-supports.html" . }}
