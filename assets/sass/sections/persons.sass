@@ -1,0 +1,41 @@
+@include media-breakpoint-up(desktop)
+    .persons, .persons.persons--grid
+        display: flex
+        flex-direction: column
+        .person
+            flex-direction: row
+            column-gap: var(--grid-gutter)
+            *
+                text-align: left
+            .avatar
+                width: columns(2)
+                &::before
+                    padding-top: 0
+                picture, img
+                    width: 100%
+                    height: auto !important
+                    position: static !important
+    .persons__page
+        .hero
+            min-height: auto
+            margin-bottom: 0
+            .content
+                padding-top: 0
+            .container
+                position: relative
+                figure
+                    position: absolute
+                    left: var(--grid-gutter)
+                    top: 0
+                    width: columns(6)
+                .hero-text
+                    padding-left: offset(6)
+                    margin-top: 0
+        .document-content
+            @include container
+            > .container
+                padding-left: offset(6)
+        .contacts-details
+            ul
+                display: flex
+                flex-direction: column

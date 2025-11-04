@@ -14,7 +14,17 @@ params:
   home:
     head:
       title: site
+  breadcrumb:
+    position: none
+  persons:
+    index:
+      layout: grid
+      options:
+        cohorts: true
   alumni:
     menu:
       programs:
         exclude_children: true
+
+pagination:
+  pagerSize: 2
