@@ -25,6 +25,3 @@ params:
     menu:
       programs:
         exclude_children: true
-
-pagination:
-  pagerSize: 2
