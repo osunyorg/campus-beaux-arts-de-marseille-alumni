@@ -4,8 +4,6 @@
 
 @include media-breakpoint-up(desktop)
     .persons, .persons.persons--grid
-        // display: flex
-        // flex-direction: column
         @include grid(2)
         .person
             flex-direction: row
@@ -34,6 +32,7 @@
                     width: columns(6)
                 .hero-text
                     padding-left: offset(6)
+                    width: auto
                     margin-top: 0
         .document-content
             @include container
