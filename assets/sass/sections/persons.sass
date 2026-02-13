@@ -13,11 +13,26 @@
                 text-align: left
             .avatar
                 width: columns(2)
-                picture, img
+
+.persons__page
+    .hero
+        figure
+            // Disable default square behaviour
+            picture
+                img
+                    position: relative
+                    height: auto
+                &::before
+                    display: none !important
+    @include media-breakpoint-down(desktop)
+        .hero
+            .container
+                position: relative
+                figure
                     width: 100%
-                    height: auto !important
-                    position: static !important
-    .persons__page
+                    height: auto
+                    margin-left: 0
+    @include media-breakpoint-up(desktop)
         .hero
             min-height: auto
             margin-bottom: 0

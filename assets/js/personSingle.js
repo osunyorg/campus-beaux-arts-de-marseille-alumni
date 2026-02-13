@@ -21,9 +21,10 @@ function setPersonSingleMinHeight() {
 
   function updatePersonSingleMinHeight() {
     var height = heroFigure.offsetHeight;
+    console.log(height)
 
     if (window.innerWidth >= 992) {
-      personContent.style.minHeight = 'calc(' + height + 'px + 8rem)';
+      personContent.style.minHeight = 'calc(' + height + 'px + var(--header-height))';
     } else {
       personContent.style.minHeight = '0';
     }

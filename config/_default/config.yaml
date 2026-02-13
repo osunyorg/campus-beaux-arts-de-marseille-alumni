@@ -25,3 +25,9 @@ params:
     menu:
       programs:
         exclude_children: true
+  image_sizes:
+    persons:
+      hero_single:
+        mobile:   200
+        tablet:   800
+        desktop:  800
