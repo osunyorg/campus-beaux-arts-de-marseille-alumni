@@ -1,6 +1,12 @@
 .person
     .avatar
         background: rgba(0,0,0,0.3)
+    &-cohorts
+        @include list-reset
+        margin-top: $spacing-4
+        li
+            a
+                @include button-small
 
 @include media-breakpoint-up(desktop)
     .persons.persons--grid
