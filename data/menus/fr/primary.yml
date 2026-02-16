@@ -17,8 +17,8 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-- title: Actualités **des diplômé·es**
-  slug: actualites-des-diplome-es
+- title: Actualités
+  slug: actualites
   target: "/"
   kind: page
   new_tab: false
