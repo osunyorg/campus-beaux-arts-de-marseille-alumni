@@ -4,6 +4,9 @@ theme:
   - osuny
 _merge: deep
 params:
+  campus_art_mediterrannee_footer:
+    logo:
+      suffix: "-white"
   summary:
     position: hero
   search:
