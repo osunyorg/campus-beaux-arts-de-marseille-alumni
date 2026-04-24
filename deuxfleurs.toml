@@ -15,834 +15,834 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/audrey-ziane/programs/index.html"
+from = "/audrey-ziane/programs/"
 to = "/equipe/audrey-ziane/programs/"
 
 [[redirects]]
-from = "/elias-hosni/index.html"
+from = "/elias-hosni/"
 to = "/equipe/elias-hosni/"
 
 [[redirects]]
-from = "/categories/agentes-administratifs-ba/service-vie-etudiante-et-egalite-des-chances/index.html"
+from = "/categories/agentes-administratifs-ba/service-vie-etudiante-et-egalite-des-chances/"
 to = "/equipe/categories/agentes-administratifs-ba/pole-direction-des-etudes/service-vie-etudiante-et-egalite-des-chances/"
 
 [[redirects]]
-from = "/antonella-minchella/index.html"
+from = "/antonella-minchella/"
 to = "/equipe/antonella-minchella/"
 
 [[redirects]]
-from = "/alexandre-fontanie/index.html"
+from = "/alexandre-fontanie/"
 to = "/equipe/alexandre-fontanie/"
 
 [[redirects]]
-from = "/lisa-obrecht/index.html"
+from = "/lisa-obrecht/"
 to = "/equipe/lisa-obrecht/"
 
 [[redirects]]
-from = "/frederic-fredout/programs/index.html"
+from = "/frederic-fredout/programs/"
 to = "/equipe/frederic-fredout/programs/"
 
 [[redirects]]
-from = "/justine-porcheron/index.html"
+from = "/justine-porcheron/"
 to = "/equipe/justine-porcheron/"
 
 [[redirects]]
-from = "/2026-03-27-appel-a-candidature--www-beauxartsdemarseille-fr/index.html"
+from = "/2026-03-27-appel-a-candidature--www-beauxartsdemarseille-fr/"
 to = "/actualites/2026-03-27-appel-a-candidature--www-beauxartsdemarseille-fr/"
 
 [[redirects]]
-from = "/fabian-toueix/index.html"
+from = "/fabian-toueix/"
 to = "/equipe/fabian-toueix/"
 
 [[redirects]]
-from = "/celia-martin/index.html"
+from = "/celia-martin/"
 to = "/equipe/celia-martin/"
 
 [[redirects]]
-from = "/cecile-marie-castanet/programs/index.html"
+from = "/cecile-marie-castanet/programs/"
 to = "/equipe/cecile-marie-castanet/programs/"
 
 [[redirects]]
-from = "/clare-poolman/index.html"
+from = "/clare-poolman/"
 to = "/equipe/clare-poolman/"
 
 [[redirects]]
-from = "/camille-noel/index.html"
+from = "/camille-noel/"
 to = "/equipe/camille-noel/"
 
 [[redirects]]
-from = "/vanessa-brito/index.html"
+from = "/vanessa-brito/"
 to = "/equipe/vanessa-brito/"
 
 [[redirects]]
-from = "/francoise-buadas/index.html"
+from = "/francoise-buadas/"
 to = "/equipe/francoise-buadas/"
 
 [[redirects]]
-from = "/equipe/categories/agentes-ifamm/professeures-ifamm/index.html"
+from = "/equipe/categories/agentes-ifamm/professeures-ifamm/"
 to = "/equipe/categories/professeures-ifamm/"
 
 [[redirects]]
-from = "/maymouna-baradji/index.html"
+from = "/maymouna-baradji/"
 to = "/equipe/maymouna-baradji/"
 
 [[redirects]]
-from = "/equipe/categories/agentes-administratifs-ba/service-vie-etudiante-et-egalite-des-chances/index.html"
+from = "/equipe/categories/agentes-administratifs-ba/service-vie-etudiante-et-egalite-des-chances/"
 to = "/equipe/categories/agentes-administratifs-ba/pole-direction-des-etudes/service-vie-etudiante-et-egalite-des-chances/"
 
 [[redirects]]
-from = "/may-pecher/index.html"
+from = "/may-pecher/"
 to = "/equipe/may-pecher/"
 
 [[redirects]]
-from = "/2026-01-27-passages-elementaires/index.html"
+from = "/2026-01-27-passages-elementaires/"
 to = "/actualites/2026-01-27-passages-elementaires/"
 
 [[redirects]]
-from = "/carla-lloret/index.html"
+from = "/carla-lloret/"
 to = "/equipe/carla-lloret/"
 
 [[redirects]]
-from = "/louison-gallego/index.html"
+from = "/louison-gallego/"
 to = "/equipe/louison-gallego/"
 
 [[redirects]]
-from = "/celia-charles/index.html"
+from = "/celia-charles/"
 to = "/equipe/celia-charles/"
 
 [[redirects]]
-from = "/saliha-hamlaoui/index.html"
+from = "/saliha-hamlaoui/"
 to = "/equipe/saliha-hamlaoui/"
 
 [[redirects]]
-from = "/anna-mandeix/index.html"
+from = "/anna-mandeix/"
 to = "/equipe/anna-mandeix/"
 
 [[redirects]]
-from = "/laurence-renucci/index.html"
+from = "/laurence-renucci/"
 to = "/equipe/laurence-renucci/"
 
 [[redirects]]
-from = "/categories/professeurs-ba/professeure-artiste-designer/index.html"
+from = "/categories/professeurs-ba/professeure-artiste-designer/"
 to = "/equipe/categories/professeurs-ba/professeure-artiste-designer/"
 
 [[redirects]]
-from = "/celie-miloch/index.html"
+from = "/celie-miloch/"
 to = "/equipe/celie-miloch/"
 
 [[redirects]]
-from = "/theo-anthouard/index.html"
+from = "/theo-anthouard/"
 to = "/equipe/theo-anthouard/"
 
 [[redirects]]
-from = "/karine-santi-weil/programs/index.html"
+from = "/karine-santi-weil/programs/"
 to = "/equipe/karine-santi-weil/programs/"
 
 [[redirects]]
-from = "/miguel-angel-canchari/index.html"
+from = "/miguel-angel-canchari/"
 to = "/equipe/miguel-angel-canchari/"
 
 [[redirects]]
-from = "/dafy-adriano-razafindrazaka/index.html"
+from = "/dafy-adriano-razafindrazaka/"
 to = "/equipe/dafy-adriano-razafindrazaka/"
 
 [[redirects]]
-from = "/frederic-fredout/index.html"
+from = "/frederic-fredout/"
 to = "/equipe/frederic-fredout/"
 
 [[redirects]]
-from = "/lila-crnogorac/index.html"
+from = "/lila-crnogorac/"
 to = "/equipe/lila-crnogorac/"
 
 [[redirects]]
-from = "/equipe/categories/professeures-cpbm/index.html"
+from = "/equipe/categories/professeures-cpbm/"
 to = "/categories/professeures-cpbm/"
 
 [[redirects]]
-from = "/miao-luo/index.html"
+from = "/miao-luo/"
 to = "/equipe/miao-luo/"
 
 [[redirects]]
-from = "/2025-11-19-residence-de-laurence-merle-au-18-a-marrakech-maroc--www-beauxartsdemarseille-fr/index.html"
+from = "/2025-11-19-residence-de-laurence-merle-au-18-a-marrakech-maroc--www-beauxartsdemarseille-fr/"
 to = "/actualites/2025-11-19-residence-de-laurence-merle-au-18-a-marrakech-maroc--www-beauxartsdemarseille-fr/"
 
 [[redirects]]
-from = "/jianghao-liu/index.html"
+from = "/jianghao-liu/"
 to = "/equipe/jianghao-liu/"
 
 [[redirects]]
-from = "/liza-rolland/index.html"
+from = "/liza-rolland/"
 to = "/equipe/liza-rolland/"
 
 [[redirects]]
-from = "/rafael-garcia-lara/index.html"
+from = "/rafael-garcia-lara/"
 to = "/equipe/rafael-garcia-lara/"
 
 [[redirects]]
-from = "/cara-schmitz/index.html"
+from = "/cara-schmitz/"
 to = "/equipe/cara-schmitz/"
 
 [[redirects]]
-from = "/barbara-pereira-magalhaes/index.html"
+from = "/barbara-pereira-magalhaes/"
 to = "/equipe/barbara-pereira-magalhaes/"
 
 [[redirects]]
-from = "/adriana-lara/index.html"
+from = "/adriana-lara/"
 to = "/equipe/adriana-lara/"
 
 [[redirects]]
-from = "/equipe-administrative/index.html"
+from = "/equipe-administrative/"
 to = "/equipe/equipe-administrative/"
 
 [[redirects]]
-from = "/alexandre-katsenis/index.html"
+from = "/alexandre-katsenis/"
 to = "/equipe/alexandre-katsenis/"
 
 [[redirects]]
-from = "/blanche-coquerel/index.html"
+from = "/blanche-coquerel/"
 to = "/equipe/blanche-coquerel/"
 
 [[redirects]]
-from = "/2025-12-04-some-places-for-a-duoe/index.html"
+from = "/2025-12-04-some-places-for-a-duoe/"
 to = "/actualites/2025-12-04-some-places-for-a-duoe/"
 
 [[redirects]]
-from = "/sebastien-vanhulst/index.html"
+from = "/sebastien-vanhulst/"
 to = "/equipe/sebastien-vanhulst/"
 
 [[redirects]]
-from = "/denis-prisset/index.html"
+from = "/denis-prisset/"
 to = "/equipe/denis-prisset/"
 
 [[redirects]]
-from = "/zhiting-fu/index.html"
+from = "/zhiting-fu/"
 to = "/equipe/zhiting-fu/"
 
 [[redirects]]
-from = "/frederic-pradeau/roles/index.html"
+from = "/frederic-pradeau/roles/"
 to = "/equipe/frederic-pradeau/roles/"
 
 [[redirects]]
-from = "/categories/agentes-administratifs-ba/service-communication/index.html"
+from = "/categories/agentes-administratifs-ba/service-communication/"
 to = "/equipe/categories/agentes-administratifs-ba/service-communication/"
 
 [[redirects]]
-from = "/severina-ivanova/index.html"
+from = "/severina-ivanova/"
 to = "/equipe/severina-ivanova/"
 
 [[redirects]]
-from = "/josephine-gelis/index.html"
+from = "/josephine-gelis/"
 to = "/equipe/josephine-gelis/"
 
 [[redirects]]
-from = "/beaux-arts-de-marseille/index.html"
+from = "/beaux-arts-de-marseille/"
 to = "/ecoles/beaux-arts-de-marseille/"
 
 [[redirects]]
-from = "/manon-torne-sistero/index.html"
+from = "/manon-torne-sistero/"
 to = "/equipe/manon-torne-sistero/"
 
 [[redirects]]
-from = "/clemence-bruno/index.html"
+from = "/clemence-bruno/"
 to = "/equipe/clemence-bruno/"
 
 [[redirects]]
-from = "/yahnis-rocailleux/index.html"
+from = "/yahnis-rocailleux/"
 to = "/equipe/yahnis-rocailleux/"
 
 [[redirects]]
-from = "/vanessa-brito/publications/index.html"
+from = "/vanessa-brito/publications/"
 to = "/equipe/vanessa-brito/publications/"
 
 [[redirects]]
-from = "/ariadna-chavez-sierra/index.html"
+from = "/ariadna-chavez-sierra/"
 to = "/equipe/ariadna-chavez-sierra/"
 
 [[redirects]]
-from = "/sasha-capitaine/index.html"
+from = "/sasha-capitaine/"
 to = "/equipe/sasha-capitaine/"
 
 [[redirects]]
-from = "/francoise-buadas/programs/index.html"
+from = "/francoise-buadas/programs/"
 to = "/equipe/francoise-buadas/programs/"
 
 [[redirects]]
-from = "/2025-12-04-lalchimie-collective/index.html"
+from = "/2025-12-04-lalchimie-collective/"
 to = "/actualites/2025-12-04-lalchimie-collective/"
 
 [[redirects]]
-from = "/gabriel-montane/index.html"
+from = "/gabriel-montane/"
 to = "/equipe/gabriel-montane/"
 
 [[redirects]]
-from = "/azalina-mouhidini/index.html"
+from = "/azalina-mouhidini/"
 to = "/equipe/azalina-mouhidini/"
 
 [[redirects]]
-from = "/lila-el-guelay/index.html"
+from = "/lila-el-guelay/"
 to = "/equipe/lila-el-guelay/"
 
 [[redirects]]
-from = "/thibaut-sy/index.html"
+from = "/thibaut-sy/"
 to = "/equipe/thibaut-sy/"
 
 [[redirects]]
-from = "/samuel-gratacap/index.html"
+from = "/samuel-gratacap/"
 to = "/equipe/samuel-gratacap/"
 
 [[redirects]]
-from = "/theo-soultan/index.html"
+from = "/theo-soultan/"
 to = "/equipe/theo-soultan/"
 
 [[redirects]]
-from = "/aure-de-thieulloy/index.html"
+from = "/aure-de-thieulloy/"
 to = "/equipe/aure-de-thieulloy/"
 
 [[redirects]]
-from = "/marcos-uriondo/index.html"
+from = "/marcos-uriondo/"
 to = "/equipe/marcos-uriondo/"
 
 [[redirects]]
-from = "/aurelien-mathis/index.html"
+from = "/aurelien-mathis/"
 to = "/equipe/aurelien-mathis/"
 
 [[redirects]]
-from = "/denis-prisset/publications/index.html"
+from = "/denis-prisset/publications/"
 to = "/equipe/denis-prisset/publications/"
 
 [[redirects]]
-from = "/2025-12-04-les-silences-sont-des-repits/index.html"
+from = "/2025-12-04-les-silences-sont-des-repits/"
 to = "/actualites/2025-12-04-les-silences-sont-des-repits/"
 
 [[redirects]]
-from = "/juliette-duval/index.html"
+from = "/juliette-duval/"
 to = "/equipe/juliette-duval/"
 
 [[redirects]]
-from = "/julie-chevassus/index.html"
+from = "/julie-chevassus/"
 to = "/equipe/julie-chevassus/"
 
 [[redirects]]
-from = "/lise-guehenneux/index.html"
+from = "/lise-guehenneux/"
 to = "/equipe/lise-guehenneux/"
 
 [[redirects]]
-from = "/frederic-pradeau/index.html"
+from = "/frederic-pradeau/"
 to = "/equipe/frederic-pradeau/"
 
 [[redirects]]
-from = "/victor-giroux/index.html"
+from = "/victor-giroux/"
 to = "/equipe/victor-giroux/"
 
 [[redirects]]
-from = "/nicolas-pilard/index.html"
+from = "/nicolas-pilard/"
 to = "/equipe/nicolas-pilard/"
 
 [[redirects]]
-from = "/mahira-doume/index.html"
+from = "/mahira-doume/"
 to = "/equipe/mahira-doume/"
 
 [[redirects]]
-from = "/categories/professeurs-ba/classe-preparatoire/index.html"
+from = "/categories/professeurs-ba/classe-preparatoire/"
 to = "/equipe/categories/professeurs-ba/classe-preparatoire/"
 
 [[redirects]]
-from = "/sara-kiwan/index.html"
+from = "/sara-kiwan/"
 to = "/equipe/sara-kiwan/"
 
 [[redirects]]
-from = "/frederic-pradeau/programs/index.html"
+from = "/frederic-pradeau/programs/"
 to = "/equipe/frederic-pradeau/programs/"
 
 [[redirects]]
-from = "/zoe-saudrais/index.html"
+from = "/zoe-saudrais/"
 to = "/equipe/zoe-saudrais/"
 
 [[redirects]]
-from = "/selma-thies/index.html"
+from = "/selma-thies/"
 to = "/equipe/selma-thies/"
 
 [[redirects]]
-from = "/ix-dartayre/index.html"
+from = "/ix-dartayre/"
 to = "/equipe/ix-dartayre/"
 
 [[redirects]]
-from = "/adem-horrigue/index.html"
+from = "/adem-horrigue/"
 to = "/equipe/adem-horrigue/"
 
 [[redirects]]
-from = "/hosana-schornstein/index.html"
+from = "/hosana-schornstein/"
 to = "/equipe/hosana-schornstein/"
 
 [[redirects]]
-from = "/emma-cambier/index.html"
+from = "/emma-cambier/"
 to = "/equipe/emma-cambier/"
 
 [[redirects]]
-from = "/jeanne-rocher/index.html"
+from = "/jeanne-rocher/"
 to = "/equipe/jeanne-rocher/"
 
 [[redirects]]
-from = "/songzi-yang/index.html"
+from = "/songzi-yang/"
 to = "/equipe/songzi-yang/"
 
 [[redirects]]
-from = "/vanessa-brito/programs/index.html"
+from = "/vanessa-brito/programs/"
 to = "/equipe/vanessa-brito/programs/"
 
 [[redirects]]
-from = "/alix-vigouroux/index.html"
+from = "/alix-vigouroux/"
 to = "/equipe/alix-vigouroux/"
 
 [[redirects]]
-from = "/lulea-joachim-tran/index.html"
+from = "/lulea-joachim-tran/"
 to = "/equipe/lulea-joachim-tran/"
 
 [[redirects]]
-from = "/pierre-laurent-cassiere/index.html"
+from = "/pierre-laurent-cassiere/"
 to = "/equipe/pierre-laurent-cassiere/"
 
 [[redirects]]
-from = "/baptiste-mauriat/index.html"
+from = "/baptiste-mauriat/"
 to = "/equipe/baptiste-mauriat/"
 
 [[redirects]]
-from = "/aure-de-thieulloy/roles/index.html"
+from = "/aure-de-thieulloy/roles/"
 to = "/equipe/aure-de-thieulloy/roles/"
 
 [[redirects]]
-from = "/equipe/categories/agentes-ifamm/formateurtrices-cfpi/index.html"
+from = "/equipe/categories/agentes-ifamm/formateurtrices-cfpi/"
 to = "/equipe/categories/formateurtrices-cfpi/"
 
 [[redirects]]
-from = "/equipe/categories/agentes-ifamm/index.html"
+from = "/equipe/categories/agentes-ifamm/"
 to = "/categories/agentes-ifamm/"
 
 [[redirects]]
-from = "/maxime-lelasseux/index.html"
+from = "/maxime-lelasseux/"
 to = "/equipe/maxime-lelasseux/"
 
 [[redirects]]
-from = "/nicolas-pilard/programs/index.html"
+from = "/nicolas-pilard/programs/"
 to = "/equipe/nicolas-pilard/programs/"
 
 [[redirects]]
-from = "/nadia-slimani/index.html"
+from = "/nadia-slimani/"
 to = "/equipe/nadia-slimani/"
 
 [[redirects]]
-from = "/lolita-perez/index.html"
+from = "/lolita-perez/"
 to = "/equipe/lolita-perez/"
 
 [[redirects]]
-from = "/denis-prisset/programs/index.html"
+from = "/denis-prisset/programs/"
 to = "/equipe/denis-prisset/programs/"
 
 [[redirects]]
-from = "/alice-le-du/index.html"
+from = "/alice-le-du/"
 to = "/equipe/alice-le-du/"
 
 [[redirects]]
-from = "/appel-a-candidature/index.html"
+from = "/appel-a-candidature/"
 to = "/actualites/appel-a-candidature/"
 
 [[redirects]]
-from = "/amaria-boujon/index.html"
+from = "/amaria-boujon/"
 to = "/equipe/amaria-boujon/"
 
 [[redirects]]
-from = "/meriem-kadi/index.html"
+from = "/meriem-kadi/"
 to = "/equipe/meriem-kadi/"
 
 [[redirects]]
-from = "/zoe-sinatti/index.html"
+from = "/zoe-sinatti/"
 to = "/equipe/zoe-sinatti/"
 
 [[redirects]]
-from = "/pierre-laurent-cassiere/programs/index.html"
+from = "/pierre-laurent-cassiere/programs/"
 to = "/equipe/pierre-laurent-cassiere/programs/"
 
 [[redirects]]
-from = "/alwen-raguenel/index.html"
+from = "/alwen-raguenel/"
 to = "/equipe/alwen-raguenel/"
 
 [[redirects]]
-from = "/zilien/index.html"
+from = "/zilien/"
 to = "/equipe/zilien/"
 
 [[redirects]]
-from = "/garance-gambin/index.html"
+from = "/garance-gambin/"
 to = "/equipe/garance-gambin/"
 
 [[redirects]]
-from = "/julia-bonich/index.html"
+from = "/julia-bonich/"
 to = "/equipe/julia-bonich/"
 
 [[redirects]]
-from = "/renata-alves/index.html"
+from = "/renata-alves/"
 to = "/equipe/renata-alves/"
 
 [[redirects]]
-from = "/categories/agentes-administratifs-ba/index.html"
+from = "/categories/agentes-administratifs-ba/"
 to = "/equipe/categories/agentes-administratifs-ba/"
 
 [[redirects]]
-from = "/margo-le-corf/index.html"
+from = "/margo-le-corf/"
 to = "/equipe/margo-le-corf/"
 
 [[redirects]]
-from = "/lara-bellot/index.html"
+from = "/lara-bellot/"
 to = "/equipe/lara-bellot/"
 
 [[redirects]]
-from = "/jolan-nestor-garcia-lecointe/index.html"
+from = "/jolan-nestor-garcia-lecointe/"
 to = "/equipe/jolan-nestor-garcia-lecointe/"
 
 [[redirects]]
-from = "/categories/professeurs-ba/philosophie-histoire-et-theorie-de-lart-du-design/index.html"
+from = "/categories/professeurs-ba/philosophie-histoire-et-theorie-de-lart-du-design/"
 to = "/equipe/categories/professeurs-ba/philosophie-histoire-et-theorie-de-lart-du-design/"
 
 [[redirects]]
-from = "/kylian-said-zeggane/index.html"
+from = "/kylian-said-zeggane/"
 to = "/equipe/kylian-said-zeggane/"
 
 [[redirects]]
-from = "/laurence-merle/index.html"
+from = "/laurence-merle/"
 to = "/equipe/laurence-merle/"
 
 [[redirects]]
-from = "/temitayo-olalekan/index.html"
+from = "/temitayo-olalekan/"
 to = "/equipe/temitayo-olalekan/"
 
 [[redirects]]
-from = "/chloe-rozier/index.html"
+from = "/chloe-rozier/"
 to = "/equipe/chloe-rozier/"
 
 [[redirects]]
-from = "/etta-marthe-wunsch/index.html"
+from = "/etta-marthe-wunsch/"
 to = "/equipe/etta-marthe-wunsch/"
 
 [[redirects]]
-from = "/nicolas-sanchez-garrido/index.html"
+from = "/nicolas-sanchez-garrido/"
 to = "/equipe/nicolas-sanchez-garrido/"
 
 [[redirects]]
-from = "/paul-escamez/index.html"
+from = "/paul-escamez/"
 to = "/equipe/paul-escamez/"
 
 [[redirects]]
-from = "/milan-giraud/index.html"
+from = "/milan-giraud/"
 to = "/equipe/milan-giraud/"
 
 [[redirects]]
-from = "/martin-mesnier/index.html"
+from = "/martin-mesnier/"
 to = "/equipe/martin-mesnier/"
 
 [[redirects]]
-from = "/valentin-vert/index.html"
+from = "/valentin-vert/"
 to = "/equipe/valentin-vert/"
 
 [[redirects]]
-from = "/clara-guilbert/index.html"
+from = "/clara-guilbert/"
 to = "/equipe/clara-guilbert/"
 
 [[redirects]]
-from = "/categories/agentes-ifamm/professeures-ifamm/index.html"
+from = "/categories/agentes-ifamm/professeures-ifamm/"
 to = "/equipe/categories/professeures-ifamm/"
 
 [[redirects]]
-from = "/johan-rochont/index.html"
+from = "/johan-rochont/"
 to = "/equipe/johan-rochont/"
 
 [[redirects]]
-from = "/karine-santi-weil/index.html"
+from = "/karine-santi-weil/"
 to = "/equipe/karine-santi-weil/"
 
 [[redirects]]
-from = "/camille-derniaux/index.html"
+from = "/camille-derniaux/"
 to = "/equipe/camille-derniaux/"
 
 [[redirects]]
-from = "/clovis-mwilambwe-ngoy/index.html"
+from = "/clovis-mwilambwe-ngoy/"
 to = "/equipe/clovis-mwilambwe-ngoy/"
 
 [[redirects]]
-from = "/janice-keriven/index.html"
+from = "/janice-keriven/"
 to = "/equipe/janice-keriven/"
 
 [[redirects]]
-from = "/sophie-andry/index.html"
+from = "/sophie-andry/"
 to = "/equipe/sophie-andry/"
 
 [[redirects]]
-from = "/anouch-basbous/index.html"
+from = "/anouch-basbous/"
 to = "/equipe/anouch-basbous/"
 
 [[redirects]]
-from = "/evane-priou/index.html"
+from = "/evane-priou/"
 to = "/equipe/evane-priou/"
 
 [[redirects]]
-from = "/oceane-pilette/index.html"
+from = "/oceane-pilette/"
 to = "/equipe/oceane-pilette/"
 
 [[redirects]]
-from = "/luc-jeandheur/index.html"
+from = "/luc-jeandheur/"
 to = "/equipe/luc-jeandheur/"
 
 [[redirects]]
-from = "/2025-12-04-ix-dartayre/index.html"
+from = "/2025-12-04-ix-dartayre/"
 to = "/actualites/2025-12-04-ix-dartayre/"
 
 [[redirects]]
-from = "/ryan-jamali/index.html"
+from = "/ryan-jamali/"
 to = "/equipe/ryan-jamali/"
 
 [[redirects]]
-from = "/cassandre-thevenier/index.html"
+from = "/cassandre-thevenier/"
 to = "/equipe/cassandre-thevenier/"
 
 [[redirects]]
-from = "/charles-david-gnangoran/index.html"
+from = "/charles-david-gnangoran/"
 to = "/equipe/charles-david-gnangoran/"
 
 [[redirects]]
-from = "/lucas-delemar/index.html"
+from = "/lucas-delemar/"
 to = "/equipe/lucas-delemar/"
 
 [[redirects]]
-from = "/lise-guehenneux/publications/index.html"
+from = "/lise-guehenneux/publications/"
 to = "/equipe/lise-guehenneux/publications/"
 
 [[redirects]]
-from = "/baptist-gheeraert/index.html"
+from = "/baptist-gheeraert/"
 to = "/equipe/baptist-gheeraert/"
 
 [[redirects]]
-from = "/equipe/categories/professeures-cpbm/bois/index.html"
+from = "/equipe/categories/professeures-cpbm/bois/"
 to = "/categories/professeures-cpbm/bois/"
 
 [[redirects]]
-from = "/hiver-du-printemps/index.html"
+from = "/hiver-du-printemps/"
 to = "/actualites/hiver-du-printemps/"
 
 [[redirects]]
-from = "/samuel-gratacap/programs/index.html"
+from = "/samuel-gratacap/programs/"
 to = "/equipe/samuel-gratacap/programs/"
 
 [[redirects]]
-from = "/categories/agentes-administratifs-ba/pole-direction-des-etudes/service-vie-etudiante-et-egalite-des-chances/index.html"
+from = "/categories/agentes-administratifs-ba/pole-direction-des-etudes/service-vie-etudiante-et-egalite-des-chances/"
 to = "/equipe/categories/agentes-administratifs-ba/pole-direction-des-etudes/service-vie-etudiante-et-egalite-des-chances/"
 
 [[redirects]]
-from = "/juliette-rougier/index.html"
+from = "/juliette-rougier/"
 to = "/equipe/juliette-rougier/"
 
 [[redirects]]
-from = "/dennis-tredy/programs/index.html"
+from = "/dennis-tredy/programs/"
 to = "/equipe/dennis-tredy/programs/"
 
 [[redirects]]
-from = "/categories/formateurtrices-cfpi/index.html"
+from = "/categories/formateurtrices-cfpi/"
 to = "/equipe/categories/formateurtrices-cfpi/"
 
 [[redirects]]
-from = "/categories/agentes-ifamm/formateurtrices-cfpi/index.html"
+from = "/categories/agentes-ifamm/formateurtrices-cfpi/"
 to = "/equipe/categories/formateurtrices-cfpi/"
 
 [[redirects]]
-from = "/dennis-tredy/index.html"
+from = "/dennis-tredy/"
 to = "/equipe/dennis-tredy/"
 
 [[redirects]]
-from = "/categories/professeurs-ba/langue-vivante/index.html"
+from = "/categories/professeurs-ba/langue-vivante/"
 to = "/equipe/categories/professeurs-ba/langue-vivante/"
 
 [[redirects]]
-from = "/lise-guehenneux/programs/index.html"
+from = "/lise-guehenneux/programs/"
 to = "/equipe/lise-guehenneux/programs/"
 
 [[redirects]]
-from = "/agnes-martel/programs/index.html"
+from = "/agnes-martel/programs/"
 to = "/equipe/agnes-martel/programs/"
 
 [[redirects]]
-from = "/capucine-parmentier/index.html"
+from = "/capucine-parmentier/"
 to = "/equipe/capucine-parmentier/"
 
 [[redirects]]
-from = "/categories/agentes-administratifs-ba/pole-direction-des-etudes/index.html"
+from = "/categories/agentes-administratifs-ba/pole-direction-des-etudes/"
 to = "/equipe/categories/agentes-administratifs-ba/pole-direction-des-etudes/"
 
 [[redirects]]
-from = "/sidonie-jaillet/index.html"
+from = "/sidonie-jaillet/"
 to = "/equipe/sidonie-jaillet/"
 
 [[redirects]]
-from = "/gabrielle-alexandre/index.html"
+from = "/gabrielle-alexandre/"
 to = "/equipe/gabrielle-alexandre/"
 
 [[redirects]]
-from = "/cecile-marie-castanet/publications/index.html"
+from = "/cecile-marie-castanet/publications/"
 to = "/equipe/cecile-marie-castanet/publications/"
 
 [[redirects]]
-from = "/oliver-salway/index.html"
+from = "/oliver-salway/"
 to = "/equipe/oliver-salway/"
 
 [[redirects]]
-from = "/melisa-yagmur-saydi/index.html"
+from = "/melisa-yagmur-saydi/"
 to = "/equipe/melisa-yagmur-saydi/"
 
 [[redirects]]
-from = "/valentin-saez-1/index.html"
+from = "/valentin-saez-1/"
 to = "/equipe/valentin-saez-1/"
 
 [[redirects]]
-from = "/categories/agentes-administratifs-ba/service-communication/responsable-4/index.html"
+from = "/categories/agentes-administratifs-ba/service-communication/responsable-4/"
 to = "/equipe/categories/agentes-administratifs-ba/service-communication/responsable-4/"
 
 [[redirects]]
-from = "/lily-barotte/index.html"
+from = "/lily-barotte/"
 to = "/equipe/lily-barotte/"
 
 [[redirects]]
-from = "/nadia-slimani/actualites/index.html"
+from = "/nadia-slimani/actualites/"
 to = "/equipe/nadia-slimani/actualites/"
 
 [[redirects]]
-from = "/cyprien-arsac/index.html"
+from = "/cyprien-arsac/"
 to = "/equipe/cyprien-arsac/"
 
 [[redirects]]
-from = "/lola-sahar/index.html"
+from = "/lola-sahar/"
 to = "/equipe/lola-sahar/"
 
 [[redirects]]
-from = "/categories/professeures-ifamm/index.html"
+from = "/categories/professeures-ifamm/"
 to = "/equipe/categories/professeures-ifamm/"
 
 [[redirects]]
-from = "/carla-aouad/index.html"
+from = "/carla-aouad/"
 to = "/equipe/carla-aouad/"
 
 [[redirects]]
-from = "/equipe/bernard-giraud/index.html"
+from = "/equipe/bernard-giraud/"
 to = "/bernard-giraud/"
 
 [[redirects]]
-from = "/agnes-martel/index.html"
+from = "/agnes-martel/"
 to = "/equipe/agnes-martel/"
 
 [[redirects]]
-from = "/nonna-muller/index.html"
+from = "/nonna-muller/"
 to = "/equipe/nonna-muller/"
 
 [[redirects]]
-from = "/luc-jeandheur/programs/index.html"
+from = "/luc-jeandheur/programs/"
 to = "/equipe/luc-jeandheur/programs/"
 
 [[redirects]]
-from = "/2026-04-13-appel-a-candidature/index.html"
+from = "/2026-04-13-appel-a-candidature/"
 to = "/actualites/2026-04-13-appel-a-candidature/"
 
 [[redirects]]
-from = "/yizhen-chen/index.html"
+from = "/yizhen-chen/"
 to = "/equipe/yizhen-chen/"
 
 [[redirects]]
-from = "/arielle-holtz/index.html"
+from = "/arielle-holtz/"
 to = "/equipe/arielle-holtz/"
 
 [[redirects]]
-from = "/stella-gercara/index.html"
+from = "/stella-gercara/"
 to = "/equipe/stella-gercara/"
 
 [[redirects]]
-from = "/anais-maurel/index.html"
+from = "/anais-maurel/"
 to = "/equipe/anais-maurel/"
 
 [[redirects]]
-from = "/marion-serre/index.html"
+from = "/marion-serre/"
 to = "/equipe/marion-serre/"
 
 [[redirects]]
-from = "/tristan-feminier/index.html"
+from = "/tristan-feminier/"
 to = "/equipe/tristan-feminier/"
 
 [[redirects]]
-from = "/sarah-fageot/index.html"
+from = "/sarah-fageot/"
 to = "/equipe/sarah-fageot/"
 
 [[redirects]]
-from = "/zadig-robin-1/index.html"
+from = "/zadig-robin-1/"
 to = "/equipe/zadig-robin-1/"
 
 [[redirects]]
-from = "/manon-monchaux/index.html"
+from = "/manon-monchaux/"
 to = "/equipe/manon-monchaux/"
 
 [[redirects]]
-from = "/audrey-ziane/index.html"
+from = "/audrey-ziane/"
 to = "/equipe/audrey-ziane/"
 
 [[redirects]]
-from = "/lucien-lejeune/index.html"
+from = "/lucien-lejeune/"
 to = "/equipe/lucien-lejeune/"
 
 [[redirects]]
-from = "/marion-serre/programs/index.html"
+from = "/marion-serre/programs/"
 to = "/equipe/marion-serre/programs/"
 
 [[redirects]]
-from = "/constant-gapp/index.html"
+from = "/constant-gapp/"
 to = "/equipe/constant-gapp/"
 
 [[redirects]]
-from = "/celia-leray/index.html"
+from = "/celia-leray/"
 to = "/equipe/celia-leray/"
 
 [[redirects]]
-from = "/adriana-lara/programs/index.html"
+from = "/adriana-lara/programs/"
 to = "/equipe/adriana-lara/programs/"
 
 [[redirects]]
-from = "/nathalia-golda-cimia/index.html"
+from = "/nathalia-golda-cimia/"
 to = "/equipe/nathalia-golda-cimia/"
 
 [[redirects]]
-from = "/2025-12-04-reiterer-le-recit-queer-pour-habiter-les-imaginaires/index.html"
+from = "/2025-12-04-reiterer-le-recit-queer-pour-habiter-les-imaginaires/"
 to = "/actualites/2025-12-04-reiterer-le-recit-queer-pour-habiter-les-imaginaires/"
 
 [[redirects]]
-from = "/cecile-marie-castanet/index.html"
+from = "/cecile-marie-castanet/"
 to = "/equipe/cecile-marie-castanet/"
 
 [[redirects]]
-from = "/aurelie-arzoine-lafages/index.html"
+from = "/aurelie-arzoine-lafages/"
 to = "/equipe/aurelie-arzoine-lafages/"
 
 [[redirects]]
-from = "/lise-coti/index.html"
+from = "/lise-coti/"
 to = "/equipe/lise-coti/"
 
 [[redirects]]
-from = "/deborah-maurice/index.html"
+from = "/deborah-maurice/"
 to = "/equipe/deborah-maurice/"
 
 [[redirects]]
-from = "/julie-dumas/index.html"
+from = "/julie-dumas/"
 to = "/equipe/julie-dumas/"
 
 [[redirects]]
-from = "/christian-garre/index.html"
+from = "/christian-garre/"
 to = "/equipe/christian-garre/"
 
 [[redirects]]
-from = "/categories/portraits-pisourd-e/index.html"
+from = "/categories/portraits-pisourd-e/"
 to = "/equipe/categories/portraits-pisourd-e/"
 
 [[redirects]]
-from = "/miriam-angeli-padilha/index.html"
+from = "/miriam-angeli-padilha/"
 to = "/equipe/miriam-angeli-padilha/"
 
