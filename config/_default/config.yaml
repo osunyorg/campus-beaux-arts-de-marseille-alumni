@@ -11,6 +11,8 @@ params:
     position: hero
   search:
     active: true
+    positions:
+      - alumni
   logo:
     header: ''
     footer: ''
