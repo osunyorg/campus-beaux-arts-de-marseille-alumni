@@ -31,6 +31,10 @@ from = "/antonella-minchella/index.html"
 to = "/equipe/antonella-minchella/"
 
 [[redirects]]
+from = "/julie-durand/index.html"
+to = "/equipe/julie-durand/"
+
+[[redirects]]
 from = "/alexandre-fontanie/index.html"
 to = "/equipe/alexandre-fontanie/"
 
@@ -217,6 +221,10 @@ to = "/equipe/denis-prisset/"
 [[redirects]]
 from = "/zhiting-fu/index.html"
 to = "/equipe/zhiting-fu/"
+
+[[redirects]]
+from = "/julie-durand/actualites/index.html"
+to = "/equipe/julie-durand/actualites/"
 
 [[redirects]]
 from = "/frederic-pradeau/roles/index.html"
@@ -411,6 +419,10 @@ from = "/aure-de-thieulloy/roles/index.html"
 to = "/equipe/aure-de-thieulloy/roles/"
 
 [[redirects]]
+from = "/categories/agentes-administratifs-sgdg/direction-generale/index.html"
+to = "/equipe/categories/agentes-administratifs-sgdg/direction-generale/"
+
+[[redirects]]
 from = "/equipe/categories/agentes-ifamm/formateurtrices-cfpi/index.html"
 to = "/equipe/categories/formateurtrices-cfpi/"
 
@@ -469,6 +481,10 @@ to = "/equipe/alwen-raguenel/"
 [[redirects]]
 from = "/zilien/index.html"
 to = "/equipe/zilien/"
+
+[[redirects]]
+from = "/categories/agentes-administratifs-sgdg/direction-generale/communication-institutionnelle/index.html"
+to = "/equipe/categories/agentes-administratifs-sgdg/direction-generale/communication-institutionnelle/"
 
 [[redirects]]
 from = "/garance-gambin/index.html"
@@ -561,6 +577,10 @@ to = "/equipe/karine-santi-weil/"
 [[redirects]]
 from = "/camille-derniaux/index.html"
 to = "/equipe/camille-derniaux/"
+
+[[redirects]]
+from = "/categories/agentes-administratifs-sgdg/index.html"
+to = "/equipe/categories/agentes-administratifs-sgdg/"
 
 [[redirects]]
 from = "/clovis-mwilambwe-ngoy/index.html"
