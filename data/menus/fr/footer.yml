@@ -29,4 +29,18 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
+- title: Délibérations des C.A.
+  slug: deliberations-des-c-a
+  target: https://inseamm-actes.digitechcloud.fr/webdelibplus/jsp/seances.jsp?role=usager
+  kind: url
+  new_tab: false
+  children: []
+  descendants_targets: []
+- title: Contact
+  slug: contact
+  target: https://www.beauxartsdemarseille.fr/lecole-ses-engagements/nous-connaitre/contact/
+  kind: url
+  new_tab: false
+  children: []
+  descendants_targets: []
 
