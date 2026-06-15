@@ -1,32 +1,32 @@
 ---
 title: Footer
 items:
-- title: Contact
-  target: "/lecole-ses-engagements/nous-connaitre/contact/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/lecole-ses-engagements/nous-connaitre/contact"
-  file: content/fr/pages/lecole-ses-engagements/nous-connaitre/contact/_index.html
-- title: Documents utiles & FAQ
-  target: "/documents-utiles/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/documents-utiles"
-  file: content/fr/pages/documents-utiles/_index.html
 - title: Magazine
-  target: "/magazine/"
-  kind: page
+  slug: magazine
+  target: https://www.beauxartsdemarseille.fr/magazine/
+  kind: url
   new_tab: false
   children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
+  descendants_targets: []
 - title: Agenda
-  target: "/agenda/"
-  kind: page
+  slug: agenda
+  target: https://www.beauxartsdemarseille.fr/agenda/
+  kind: url
   new_tab: false
   children: []
-  path: "/events"
-  file: content/fr/events/_index.html
+  descendants_targets: []
+- title: Documents utiles & FAQ
+  slug: documents-utiles-faq
+  target: https://www.beauxartsdemarseille.fr/documents-utiles/
+  kind: url
+  new_tab: false
+  children: []
+  descendants_targets: []
+- title: Taxe d’apprentissage
+  slug: taxe-d-apprentissage
+  target: https://www.beauxartsdemarseille.fr/taxe-dapprentissage/
+  kind: url
+  new_tab: false
+  children: []
+  descendants_targets: []
 
