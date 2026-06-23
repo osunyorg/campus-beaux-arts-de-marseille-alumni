@@ -26,6 +26,9 @@ params:
       layout: grid
       options:
         cohorts: true
+    single:
+      meta:
+        position: hero
   alumni:
     menu:
       programs:

@@ -1,12 +1,6 @@
 .person
     .avatar
         background: rgba(0,0,0,0.3)
-    &-cohorts
-        @include list-reset
-        margin-top: $spacing-4
-        li
-            a
-                @include button-small
 
 @include media-breakpoint-up(desktop)
     .persons.persons--grid
@@ -30,6 +24,12 @@
                     height: auto
                 &::before
                     display: none !important
+        .person-cohorts
+            @include list-reset
+            margin-top: $spacing-4
+            li
+                a
+                    @include button-small
     @include media-breakpoint-down(desktop)
         .hero
             .container
@@ -38,6 +38,12 @@
                     width: 100%
                     height: auto
                     margin-left: 0
+            .persons-meta
+                > li
+                    flex-direction: column !important
+                    gap: $spacing-1
+                    *
+                        text-align: left
     @include media-breakpoint-up(desktop)
         .hero
             min-height: auto
@@ -53,8 +59,10 @@
                     width: columns(6)
                 .hero-text
                     padding-left: offset(6)
-                    width: auto
+                    width: columns(12)
                     margin-top: 0
+                    h1
+                        width: auto
         .document-content
             @include container
             > .container
