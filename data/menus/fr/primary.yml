@@ -26,4 +26,13 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Agenda
+  slug: agenda
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/events"
+  file: content/fr/events/_index.html
 

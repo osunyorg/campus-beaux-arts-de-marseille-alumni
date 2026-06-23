@@ -475,6 +475,10 @@ from = "/pierre-laurent-cassiere/programs/index.html"
 to = "/equipe/pierre-laurent-cassiere/programs/"
 
 [[redirects]]
+from = "/2026-05-20-une-releve-mediterraneenne--www-beauxartsdemarseille-fr/index.html"
+to = "/expositions/2026-05-20-une-releve-mediterraneenne/"
+
+[[redirects]]
 from = "/alwen-raguenel/index.html"
 to = "/equipe/alwen-raguenel/"
 
@@ -743,6 +747,10 @@ from = "/categories/professeures-ifamm/index.html"
 to = "/equipe/categories/professeures-ifamm/"
 
 [[redirects]]
+from = "/2026-08-28-glaneuses-et-glaneurs--www-beauxartsdemarseille-fr/index.html"
+to = "/expositions/2026-08-28-glaneuses-et-glaneurs--www-beauxartsdemarseille-fr/"
+
+[[redirects]]
 from = "/carla-aouad/index.html"
 to = "/equipe/carla-aouad/"
 
@@ -783,6 +791,10 @@ from = "/anais-maurel/index.html"
 to = "/equipe/anais-maurel/"
 
 [[redirects]]
+from = "/2026/vernissage-de-lexposition-vivre-en-plusieurs-langues--www-beauxartsdemarseille-fr/index.html"
+to = "/agenda/2026/vernissage-de-lexposition-vivre-en-plusieurs-langues--www-beauxartsdemarseille-fr/"
+
+[[redirects]]
 from = "/marion-serre/index.html"
 to = "/equipe/marion-serre/"
 
@@ -793,6 +805,10 @@ to = "/equipe/tristan-feminier/"
 [[redirects]]
 from = "/sarah-fageot/index.html"
 to = "/equipe/sarah-fageot/"
+
+[[redirects]]
+from = "/2026/retrospective-miramar--www-beauxartsdemarseille-fr/index.html"
+to = "/agenda/2026/retrospective-miramar--www-beauxartsdemarseille-fr/"
 
 [[redirects]]
 from = "/zadig-robin-1/index.html"
