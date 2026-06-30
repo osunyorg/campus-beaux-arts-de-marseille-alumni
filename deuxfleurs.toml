@@ -159,6 +159,10 @@ from = "/lila-crnogorac/index.html"
 to = "/equipe/lila-crnogorac/"
 
 [[redirects]]
+from = "/equipe/peter-haddad-peter/index.html"
+to = "/equipe/peter-haddad/"
+
+[[redirects]]
 from = "/equipe/categories/professeures-cpbm/index.html"
 to = "/categories/professeures-cpbm/"
 
