@@ -65,8 +65,8 @@
                         width: auto
         .document-content
             @include container
-            > .container
-                padding-left: offset(6)
+            > .container, > .blocks .block-content
+                padding-left: columns(6)
         .contacts-details
             ul
                 display: flex
