@@ -116,6 +116,49 @@ contents_reading_time:
     moins d'une minute
 contents:
 
+  - kind: block
+    template: agenda
+
+
+    ranks:
+      base: 2
+      children: 2
+    top:
+      active: false
+
+    data:
+      mode: all
+      kinds:
+        parent: false
+        child: true
+        recurring: true
+      options:
+        categories: true
+        dates: true
+        image: true
+        subtitle: true
+        summary: true
+        status: false
+
+      layout: grid
+
+
+      title_link: "/agenda/"
+      events:
+        - permalink: ""
+          path: "/events/2026/10/13-10-00-jean-servais-somian"
+          slug: "jean-servais-somian"
+          file: "content/fr/events/2026/10/13-10-00-jean-servais-somian.html"
+          name: >-
+            Jean Servais Somian
+        - permalink: ""
+          path: "/events/2026/10/14-10-00-paul-ledron"
+          slug: "paul-ledron"
+          file: "content/fr/events/2026/10/14-10-00-paul-ledron.html"
+          name: >-
+            Paul Ledron
+
+      quantity: 2
 
   - kind: block
     template: title
